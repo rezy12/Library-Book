@@ -1,4 +1,4 @@
-Sure, here's a revised version of the README.md file without the "License" and "Contributing" sections:
+
 
 # Library Book Management System
 
